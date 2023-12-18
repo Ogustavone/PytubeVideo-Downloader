@@ -6,6 +6,8 @@
 
 Este é um programa feito inteiramente em Python, utilizando a biblioteca CustomTkinter para interface do programa e Pytube para o download dos vídeos.
 
+![image](https://github.com/Ogustavone/PytubeVideo-Downloader/assets/152922144/c781ef65-89f9-4ea6-aa98-7e83589d8cb6)
+
 ------------------------------------------------------------
 
 Para instalar esse projeto como um executável utilize o módulo Pyinstaller com o seguinte comando:
